@@ -10,7 +10,7 @@ const inter = Inter({
   });
 
 export const metadata = {
-  title: "My Portfolio",
+  title: "Omer Meric | Portfolio",
   description: "My Portfolio Web App",
   icons:{
     icon:['/favicon.ico?v=4'],

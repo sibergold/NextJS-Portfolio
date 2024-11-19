@@ -8,7 +8,6 @@
 
 # testing
 /coverage
-src/app/data.js
 # next.js
 /.next/
 /out/

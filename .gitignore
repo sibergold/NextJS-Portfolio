@@ -15,7 +15,7 @@ src/app/data.js
 
 # production
 /build
-public
+
 # misc
 .DS_Store
 *.pem

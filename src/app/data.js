@@ -33,10 +33,10 @@ export const projectsData = [
   },
   {
     id: 3,
-    name: "BudgetPlanner",
-    description: "Plan and track expenses",
-    date: "2024-05-03",
-    demoLink: "https://github.com/sibergold/BudgetPlanner",
+    name: "HotelReservationSystem",
+    description: "Website for hotel reservation",
+    date: "2024-12-13",
+    demoLink: "https://github.com/sibergold/HotelManagementSystem",
   },
   {
     id: 4,
@@ -114,7 +114,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "/myCV.pdf",
+    link: "/OmersCV.pdf",
     icon: "resume",
     newTab: true,
   },

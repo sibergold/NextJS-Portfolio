@@ -13,15 +13,15 @@ const AboutDetails = () => {
             Architect of Enchantment
           </h2>
           <p className="font-light text-xs sm:text-sm md:text-base">
-            My journey in web development is powered by an array of mystical
-            tools and languages, with JavaScript casting the core of my
-            enchantments. I wield frameworks like React.js and Next.js with
-            precision, crafting seamless portals (websites) that connect realms
-            (users) across the digital universe. The ancient arts of the
-            Jamstack empower me to create fast, secure, and dynamic experiences,
-            while my design skills ensure every creation is not only functional
-            but visually captivating. Join me as I continue to explore new
-            spells and technologies to shape the future of the web.
+            Greetings, traveler! 🌟
+
+            I am Omer Meric, a software sorcerer crafting spells of code to shape the digital realms. With JavaScript as my trusted wand and frameworks like React.js and Next.js as my enchanted tools, I bring seamless user experiences to life. My journey spans across powerful disciplines, including Node.js, TypeScript, .NET Core, and the mystical realms of MSSQL and MongoDB, allowing me to conjure fast, secure, and dynamic solutions for the ever-evolving web.
+
+The Jamstack Arts empower my creations, ensuring they are swift and robust, while my eye for design ensures every portal I craft is not only functional but mesmerizingly captivating. As I delve into new realms of knowledge, I embrace each challenge as an opportunity to refine my spells and expand my mystical arsenal.
+
+Whether taming the complexities of back-end architectures or summoning visually stunning front-end experiences, I thrive on crafting reliable and innovative solutions. Join me in exploring the endless possibilities of this magical digital universe—where every line of code is a step closer to shaping the future.
+
+🧙‍♂️ Let’s weave the magic of technology together!
           </p>
         </ItemLayout>
 
@@ -76,14 +76,14 @@ const AboutDetails = () => {
 
         <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
           <Link
-           href="https://github.com/sibergold/NETFLIX-CLONE"
+           href="https://github.com/sibergold/HotelManagementSystem"
            target="_blank"
            className="w-full"
           >
           
           <img
             className="w-full h-auto"
-            src={`${process.env.NEXT_PUBLIC_GITHUB_STATS_URL}/api/pin/?username=sibergold&repo=NETFLIX-CLONE&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2`}
+            src={`${process.env.NEXT_PUBLIC_GITHUB_STATS_URL}/api/pin/?username=sibergold&repo=HotelManagementSystem&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2`}
             alt="Github Streaks"
             loading="lazy"
             

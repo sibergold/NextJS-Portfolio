@@ -59,7 +59,7 @@ Whether taming the complexities of back-end architectures or summoning visually 
         <ItemLayout className={"col-span-full "}>
           <img
             className="w-full h-auto"
-            src={`https://skillicons.dev/icons?i=js,html,css,cs,angular,bootstrap,dotnet,express,git,mongodb,nextjs,nodejs,postman,react,sqlite,ts,vite,vscode`}
+            src={`https://skillicons.dev/icons?i=js,html,css,express,git,mongodb,nextjs,nodejs,postman,react,sqlite,ts,vite,vscode,docker,redis,rabbitmq,linux,elasticsearch,graphql`}
             alt="icons"
             loading="lazy"
           />
